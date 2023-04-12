@@ -18,6 +18,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=molky-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<h1 align="center">Hi 👋, I'm Molky</h1>
+
 <h1 align="center">### 😂 Random Dev Meme</h1>
 <img src="https://rm.up.railway.app/" width="512px"/>
 
