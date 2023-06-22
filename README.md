@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/react-%23818181.svg?style=for-the-badge&logo=react&logoColor=%23000" alt="Lua">
+  <img src="https://img.shields.io/badge/react-%23272727.svg?style=for-the-badge&logo=react&logoColor=%2361dbfb" alt="ReactJS">
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
